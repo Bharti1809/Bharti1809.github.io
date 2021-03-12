@@ -49,10 +49,10 @@
 		
 		if(user){
 			
-		window.open("signout.html","_self");
+		window.open("signout.html");
 			
 		}else{
-			window.open("index.html","_self");
+			window.open("index.html");
 		
 		}
 		
